@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "@vue/babel-plugin-transform-vue-jsx": "^1.1.2",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "css-loader": "^2.1.1",
     "ejs": "^2.5.7",
     "koa": "^2.4.1",
